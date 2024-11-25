@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me <a href='mailto:ryanrkean@gmail.com'>ryanrkean@gmail.com</a>
 - 😄 Pronouns: He/Him
-- <p align='center'> 
+## 🛠 Technology Stack
+- Python
+<p align='center'> 
 
    <a href="https://github-readme-stats.vercel.app/api?username=Reav3rLord&show_icons=true&count_private=true"> 
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=Reav3rLord&show_icons=true&count_private=true"/> 
